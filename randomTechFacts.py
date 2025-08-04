@@ -15,6 +15,5 @@ while True:
     user_input = input("press 'Enter' to get a random tech fact or type 'q' to quit: ")
     if user_input.lower() == 'q':
       print("Goodbye!")
-    break
-            
-get_random_tech_fact()
+      break
+    get_random_tech_fact()
